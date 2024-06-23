@@ -1,8 +1,5 @@
 # CodePulse
-
-![Angular](https://github.com/iamgauravn/codepluse/assets/80909649/cc87a928-d6d2-4c47-8bab-0fd3d247ef70)
-![.NET](https://github.com/iamgauravn/codepluse/assets/80909649/26b67e7e-8fc6-4db6-80d3-d462caddccab)
-  
+   
 ## Table of Contents
 
 - [About](#about)
