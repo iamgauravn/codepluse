@@ -1,2 +1,44 @@
-# codepluse
-CodePluse also folks to create &amp; read the blogs post with there similar interest.
+# CodePulse
+
+![Angular](https://github.com/iamgauravn/codepluse/assets/80909649/cc87a928-d6d2-4c47-8bab-0fd3d247ef70)
+![.NET](https://github.com/iamgauravn/codepluse/assets/80909649/26b67e7e-8fc6-4db6-80d3-d462caddccab)
+  
+## Table of Contents
+
+- [About](#about)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Contact](#contact)
+
+## About
+
+CodePulse is a web application built with a .NET 8.0 backend and an Angular 17.3.0 frontend. It enables users to create, share, and read blog posts, connecting people with similar interests.
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- **Backend:**
+  - .NET SDK 8.0
+- **Frontend:**
+  - Node.js 18.20.2
+  - npm 10.5.0
+- **General:**
+  - Git
+
+## Installation
+
+### Clone the repository
+
+```bash
+git clone https://github.com/yourusername/codepulse.git
+cd codepulse
+```
+
+## Contact
+
+**Github:**
+   - https://github.com/iamgauravn
+**Email:**
+   - gaurav110dev@gmail.com
+
