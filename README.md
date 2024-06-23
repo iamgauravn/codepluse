@@ -7,6 +7,7 @@
 
 - [About](#about)
 - [Prerequisites](#prerequisites)
+- [ScreenShot](#screenshot)
 - [Installation](#installation)
 - [Contact](#contact)
 
@@ -26,6 +27,11 @@ Before you begin, ensure you have met the following requirements:
 - **General:**
   - Git
 
+## ScreenShot
+
+![Image](https://github.com/iamgauravn/codepluse/assets/80909649/e69e929a-f5ad-49bf-8c29-f68fb7f508eb)
+
+
 ## Installation
 
 ### Clone the repository
@@ -37,8 +43,6 @@ cd codepulse
 
 ## Contact
 
-**Github:**
    - https://github.com/iamgauravn
-**Email:**
    - gaurav110dev@gmail.com
 
