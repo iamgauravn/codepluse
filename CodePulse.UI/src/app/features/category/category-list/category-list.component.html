@@ -1,0 +1,34 @@
+<div class="container">
+    <h1 class="mt-3"> Category List </h1>
+
+    <div class="d-flex justify-content-end mt-3 me-10">
+        <a [routerLink]="['/admin/categories/add']" class="btn btn-primary"> Add Category </a> 
+    </div>
+
+    <ng-container *ngIf="categories;else notFound">
+        <table class="table table-bordered mt-3">
+            <thead>
+                <th> Id </th>
+                <th> Name </th>
+                <th> UrlHandle </th>
+                <th>  </th>
+            </thead>
+            <tbody>
+                <tr *ngFor="let item of categories">
+                    <td>{{item.id}}</td>
+                    <td>{{item.name}}</td>
+                    <td>{{item.urlHandle}}</td>
+                    <td> <a href="" class="btn btn-secondary" [routerLink]="['/admin/categories',item.id]"> Edit </a> </td>
+                </tr>
+            </tbody>
+        </table>
+    </ng-container>
+    
+    <ng-template #notFound>
+        <div class="alert alert-warning" role="alert">
+            Not Data Found!
+          </div>
+    </ng-template>
+    
+
+</div>
